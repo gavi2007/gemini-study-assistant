@@ -24,3 +24,7 @@ An AI-powered Python utility designed to help students streamline their exam pre
 ```bash
 git clone [https://github.com/gavi2007/gemini-study-assistant.git](https://github.com/gavi2007/gemini-study-assistant.git)
 cd gemini-study-assistant
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
